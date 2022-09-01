@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Your Site Title</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,200,200italic,300,100italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.3.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Romanesco:" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+</head>
+
+<body>
+    <nav class="navbar is-transparent">
+        <div class="container">
+            <div class="navbar-brand">
+                <div data-target="navbarExampleTransparentExample" class="navbar-burger"><span></span><span></span><span></span></div>
+            </div>
+            <div id="navbarExampleTransparentExample" class="navbar-menu">
+                <div class="navbar-start">
+                </div>
+                <div class="navbar-end">
+                    <div class="navbar-item">
+                        <div class="buttons"><a href="https://www.instagram.com/holycitysyndicate/?hl=en" class="button is-ghost has-text-dark"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="36px" height="36px" id="io5w7">
+                                        <path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4c0 3.2-2.6 5.8-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8C2 4.6 4.6 2 7.8 2m-.2 2C5.61 4 4 5.61 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8c1.99 0 3.6-1.61 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5M12 7c2.76 0 5 2.24 5 5s-2.24 5-5 5-5-2.24-5-5 2.24-5 5-5m0 2c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"></path>
+                                    </svg></span></a><a href="#null" class="button is-dark is-outlined is-rounded">Our Sponsors</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <section class="hero section is-block is-relative is-white">
+        <section class="section">
+            <div class="container">
+                <div class="columns is-vcentered">
+                    <div class="column is-4">
+                        <div class="icon-subtitle"><i class="im im-icon-Calendar-4"></i></div>
+                        <div class="title quick-feature is-handwritten text-bold">
+                            <h2 id="ivoy" class="section-content-left section-content-left-title">Holy City Syndicate</h2>
+                        </div><span class="body-text"><span id="i8pdpg">In partnership with the Eastern Surfing Association, we are proud to share the success of the Boogie Surf Off!</span></span>
+                        <div class="buttons mt-5"><a href="https://surfesa.org/" class="button is-rounded is-link">Eastern Surfing Association<span class="icon is-medium ml-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20px" height="20px">
+                                        <path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"></path>
+                                    </svg></span></a></div>
+                    </div>
+                    <div class="column is-offset-1 is-6 has-text-centered"><img type="img" src="assets/img/image_ildu2.png?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=JMlI1C71zyXVAqog4DjxQ6XuXnw%3D&amp;Expires=1661995394" alt="" class="featured-svg"></div>
+                </div>
+            </div>
+        </section>
+        <div class="container mt-5"></div>
+    </section>
+    <section class="section has-background-white-bis">
+        <div class="container">
+            <h2 id="ik8y7">We have reached all our goals, thanks to your support!</h2>
+            <div class="columns is-multiline is-centered">
+                <div class="column is-12 is-8-desktop">
+                    <section class="p-5">
+                        <div class="order-body container">
+                            <article class="media order shadow delivered">
+                                <figure class="media-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="40px" height="40px" id="ie6cg9">
+                                        <path d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2m-1 14.5l7-7-1.41-1.41L11 13.67l-3.09-3.08L6.5 12l4.5 4.5z">
+                                        </path>
+                                    </svg></figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p id="ipp9e"><strong id="iw2ps">$20,000 raised for local Charleston charities</strong><br><small id="i9o6i">Support our local organizations:<br>Eastern Surfing Association,&nbsp; Rein and Shine, and Coastal Crisis Chaplaincy<br></small></p>
+                                    </div>
+                                </div>
+                                <div class="media-right">
+                                    <div class="tags has-addons"></div>
+                                </div>
+                            </article>
+                            <article class="media order shadow">
+                                <figure class="media-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="40px" height="40px" id="ihepfh">
+                                        <path d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2m-1 14.5l7-7-1.41-1.41L11 13.67l-3.09-3.08L6.5 12l4.5 4.5z">
+                                        </path>
+                                    </svg></figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p id="ik6ac"><strong id="it3t3">Encourage rewarding activities for everybody</strong><br><small id="iodx6">Connect local Charleston-area students with local non-profit to develop relationships which reward everybody involved</small></p>
+                                    </div>
+                                </div>
+                                <div class="media-right">
+                                    <div class="tags has-addons"></div>
+                                </div>
+                            </article>
+                            <article class="media order shadow">
+                                <figure class="media-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="40px" height="40px" id="irpe2w">
+                                        <path d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2m-1 14.5l7-7-1.41-1.41L11 13.67l-3.09-3.08L6.5 12l4.5 4.5z">
+                                        </path>
+                                    </svg></figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p id="ik2z8"><strong id="izus5">Teach&nbsp; about leadership, fundraising, and community skills</strong><br><small id="inmfu">Build interpersonal communication, time management, leadership and problem-solving&nbsp; skills for newly motivated individuals</small></p>
+                                    </div>
+                                </div>
+                                <div class="media-right">
+                                    <div class="tags has-addons"></div>
+                                </div>
+                            </article>
+                        </div>
+                        <article class="media order shadow">
+                            <figure class="media-left"></figure>
+                            <div class="media-content">
+                                <div class="content"></div>
+                            </div>
+                            <div class="media-right">
+                                <div class="tags has-addons"></div>
+                            </div>
+                        </article>
+                        <figure class="media-left"></figure>
+                    </section>
+                    <article class="media order shadow">
+                        <figure class="media-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="40px" height="40px" id="ixus5o">
+                                <path d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2m-1 14.5l7-7-1.41-1.41L11 13.67l-3.09-3.08L6.5 12l4.5 4.5z">
+                                </path>
+                            </svg></figure>
+                        <div class="media-content">
+                            <div class="content">
+                                <p id="iprtdb"><strong id="ihini7">...and maybe catch a bomb or two</strong><br><small id="izafpk">Showcase the talent with some of Charleston's best (in our opinion!) surfers</small></p>
+                            </div>
+                        </div>
+                        <div class="media-right">
+                            <div class="tags has-addons"></div>
+                        </div>
+                    </article>
+                </div>
+                <p id="ibri18"><br></p>
+                <article class="media order shadow">
+                    <div class="media-content">
+                        <div class="content"></div>
+                    </div>
+                    <div class="media-right">
+                        <div class="tags has-addons"></div>
+                    </div>
+                </article>
+            </div>
+        </div>
+        <p id="ixabaa"><br><br><b>Thank you.<br></b><br>The incredible support that poured in from friends, family, strangers, and local, national, and international businesses was something that none of us could have ever imagined. We want to take this time to say how grateful we are to all of those who have helped make this charity event possible. Without your help, we would have never come close to our goals.<br><br>All profits raised went to Rein and Shine and Coastal Crisis Chaplaincy, two organizations that do tremendous work in South Carolina helping people access mental health support and treatment. We can't thank our generous sponsors and patrons supporting us every step of the way to make an event like this possible.&nbsp;<br><br>We are so grateful to each and every one of you, and we look forward to seeing you next year with our second annual Boogie Surf Off led by your Charleston kooks!&nbsp;</p>
+    </section>
+    <section class="section is-light is-fullheight">
+        <div class="section-inner">
+            <div class="container mt-5 mb-5">
+                <h2 id="i0j6a4">Gallery: check us out!<br></h2>
+                <div class="columns is-multiline mt-2">
+                    <div class="column is-5">
+                        <figure class="image is-thumbnail"><img type="img" src="assets/img/parker_surfing_1.jpeg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=plQQTLjhddMrnH4BoD7bETGAjwA%3D&amp;Expires=1661996681" id="iv13qf"></figure>
+                    </div>
+                    <div class="column is-7">
+                        <div class="columns is-multiline is-2">
+                            <div class="column is-4">
+                                <figure class="image"><img type="img" src="assets/img/DSC_0384.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=LvZ2Bb4jSy6LH7NFmLE2AQLXAn0%3D&amp;Expires=1661996813" id="ijnlyk"></figure>
+                            </div>
+                            <div class="column is-4">
+                                <figure class="image"><img type="img" src="assets/img/DSC_0140.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=sneTtaEYKQa2BzrwRO7ZFZnL3UM%3D&amp;Expires=1661996837" id="iy8c02"></figure>
+                            </div>
+                            <div class="column is-4">
+                                <figure class="image"><img type="img" src="assets/img/DSC_0221.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=aeHPF9Wv6Ic%2FElgRrnShwba1s10%3D&amp;Expires=1661996993" id="i2fbcd"></figure>
+                            </div>
+                            <div class="column is-4">
+                                <figure class="image"><img type="img" src="assets/img/DSC_0397.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=Ne%2FRGjWkMgLKxJcANzd%2BSDHhct0%3D&amp;Expires=1661996993" id="ieoed7"></figure>
+                            </div>
+                            <div class="column is-4">
+                                <figure class="image"><img type="img" src="assets/img/DSC_0234.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=zgpR4mVLLGjFG0j7Nk6cTnM%2F4fg%3D&amp;Expires=1661996993" id="iilksd"></figure>
+                            </div>
+                            <div class="column is-4">
+                                <figure class="image"><img type="img" src="assets/img/DSC_0139.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=Yxboaza6VD3Dzk4%2Fb5jGRHAB464%3D&amp;Expires=1661996993" id="in7je3"></figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section_owenp" data-scroll-point="true" class="container featured-cards-container">
+        <div class="columns is-centered">
+            <div data-scroll-point="" class="column is-12">
+                <h1 id="i91if" class="is-heading-1">Our Sponsors</h1>
+                <p class="mt-5 mb-5 has-text-centered is-paragraph">Below are our Gold level sponsors, whom we greatly appreciate their support! Please click below and support our supporters.<br></p>
+                <div class="columns">
+                    <div class="column is-6">
+                        <div class="box">
+                            <article class="media">
+                                <figure class="media-left">
+                                    <p id="i68fkn" class="image is-128x128"><img type="img" src="assets/img/surf_the_earth_2.PNG?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=cFhVpmwVx2LP49aty0KY3yvx%2FLI%3D&amp;Expires=1661997258" id="i1zhpd"></p>
+                                </figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p class="has-text-weight-bold">Surf The Earth</p>
+                                        <p class="has-text-dark is-size-7 has-text-grey">Surf The Earth was created with the goal of creating high quality surf gear that would stand the test of time, gear that you could count on. They began making board shorts, t-shirts, hats, and stickers ; selling to surf shops. </p>
+                                        <div><small></small></div>
+                                        <div class="mt-2 mb-2"><small> </small></div>
+                                    </div><a href="https://www.surf-the-earth.com/" class="button">Surf The Earth Website</a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="column is-6">
+                        <div class="box">
+                            <article class="media">
+                                <figure class="media-left">
+                                    <p id="i68fkn-2" class="image is-128x128"><img type="img" src="assets/img/nectar.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=hXZZHypSMWa%2BH0N%2Fcp3KNCFlbko%3D&amp;Expires=1661997805" id="i4s62d"></p>
+                                </figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p class="has-text-weight-bold">Nectar Sunglasses</p>
+                                        <p class="has-text-dark is-size-7 has-text-grey">We are East Coast souls. We also make a damn good pair of sunglasses. We aim to stay true to those roots in the shades we create, infusing a bit of grit, character &amp; inclusivity to everything we do. </p>
+                                        <p class="is-size-6"></p>
+                                        <div><small></small></div>
+                                        <div class="mt-2 mb-2"><small> </small></div>
+                                    </div><a href="https://www.nectarsunglasses.com/" class="button">Nectar Website</a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+                <div class="columns">
+                    <div class="column is-6">
+                        <div class="box">
+                            <article class="media">
+                                <figure class="media-left">
+                                    <p class="image is-128x128"><img type="img" src="assets/img/apis_mercantile.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=8WfkmswvJ%2FC1g8WGI%2FvEw%2F%2BzQT8%3D&amp;Expires=1661997929" id="ie1cbg"></p>
+                                </figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p class="has-text-weight-bold">Apis Mercantile</p>
+                                        <p class="has-text-dark is-size-7 has-text-grey">We are committed to regional sourcing and creating a before-now non-existent regional infrastructure to source, bottle, and distribute regionally produced honey food products, reconnecting consumers with the food producers. </p>
+                                        <p class="is-size-6"></p>
+                                        <div><small></small></div>
+                                        <div class="mt-2 mb-2"><small> </small></div>
+                                    </div><a href="https://www.apismercantile.com/" class="button">Apis Mercantile Website</a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="column is-6">
+                        <div class="box">
+                            <article class="media">
+                                <figure class="media-left">
+                                    <p class="image is-128x128"><img type="img" src="assets/img/moonlighting.PNG?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=D4JOulNcdd2a7%2FIoYj0TI0S%2BEpU%3D&amp;Expires=1661998026" id="iwdt9a"></p>
+                                </figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p class="has-text-weight-bold">Moonlighting Landscape Lighting Systems</p>
+                                        <p class="has-text-dark is-size-7 has-text-grey">Moonlighting Landscape Lighting Systems is located in Charleston, South Carolina and&nbsp;utilizes lighting in unique and creative ways in order to enhance and capture the spirit of a setting.&nbsp;</p>
+                                        <p class="is-size-6"></p>
+                                        <div><small></small></div>
+                                        <div class="mt-2 mb-2"><small> </small></div>
+                                    </div><a href="https://moonlightinglls.com/" class="button">Moonlighting Website</a>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+                <div class="columns">
+                    <div class="column is-6">
+                        <div class="box">
+                            <article class="media">
+                                <figure class="media-left">
+                                    <p class="image is-128x128"><img type="img" src="https://source.unsplash.com/5vOXf1Frn18/500x500"></p>
+                                </figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p class="has-text-weight-bold"> Lorem Ipsum </p>
+                                        <p class="has-text-dark is-size-7 has-text-grey"> Lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
+                                        <p class="is-size-6"><small>$15.99</small></p>
+                                        <div><small></small></div>
+                                        <div class="mt-2 mb-2"><small> </small></div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="column is-6">
+                        <div class="box">
+                            <article class="media">
+                                <figure class="media-left">
+                                    <p class="image is-128x128"><img type="img" src="https://source.unsplash.com/D_TIIC7jhg8/500x500"></p>
+                                </figure>
+                                <div class="media-content">
+                                    <div class="content">
+                                        <p class="has-text-weight-bold"> Lorem Ipsum </p>
+                                        <p class="has-text-dark is-size-7 has-text-grey"> Lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
+                                        <p class="is-size-6"></p>
+                                        <div><small></small></div>
+                                        <div class="mt-2 mb-2"><small> </small></div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-scroll-point="" class="column is-12">
+            <p class="mt-5 mb-5 has-text-centered is-paragraph">Below are our Silver level sponsors, whom we also appreciate their support! Please click below to check them out too.<br></p>
+            <div class="columns">
+                <div class="column is-6">
+                    <div class="box">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-128x128"><img type="img" src="assets/img/surf_the_earth_2.PNG?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=cFhVpmwVx2LP49aty0KY3yvx%2FLI%3D&amp;Expires=1661997258" id="ili5l2"></p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="has-text-weight-bold">Surf The Earth</p>
+                                    <p class="has-text-dark is-size-7 has-text-grey">Surf The Earth was created with the goal of creating high quality surf gear that would stand the test of time, gear that you could count on. They began making board shorts, t-shirts, hats, and stickers ; selling to surf shops. </p>
+                                    <div><small></small></div>
+                                    <div class="mt-2 mb-2"><small> </small></div>
+                                </div><a href="https://www.surf-the-earth.com/" class="button">Surf The Earth Website</a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="column is-6">
+                    <div class="box">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-128x128"><img type="img" src="assets/img/nectar.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=hXZZHypSMWa%2BH0N%2Fcp3KNCFlbko%3D&amp;Expires=1661997805" id="ifo27z"></p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="has-text-weight-bold">Nectar Sunglasses</p>
+                                    <p class="has-text-dark is-size-7 has-text-grey">We are East Coast souls. We also make a damn good pair of sunglasses. We aim to stay true to those roots in the shades we create, infusing a bit of grit, character &amp; inclusivity to everything we do. </p>
+                                    <p class="is-size-6"></p>
+                                    <div><small></small></div>
+                                    <div class="mt-2 mb-2"><small> </small></div>
+                                </div><a href="https://www.nectarsunglasses.com/" class="button">Nectar Website</a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+            <div class="columns">
+                <div class="column is-6">
+                    <div class="box">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-128x128"><img type="img" src="assets/img/apis_mercantile.jpg?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=8WfkmswvJ%2FC1g8WGI%2FvEw%2F%2BzQT8%3D&amp;Expires=1661997929" id="ipjwnq"></p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="has-text-weight-bold">Apis Mercantile</p>
+                                    <p class="has-text-dark is-size-7 has-text-grey">We are committed to regional sourcing and creating a before-now non-existent regional infrastructure to source, bottle, and distribute regionally produced honey food products, reconnecting consumers with the food producers. </p>
+                                    <p class="is-size-6"></p>
+                                    <div><small></small></div>
+                                    <div class="mt-2 mb-2"><small> </small></div>
+                                </div><a href="https://www.apismercantile.com/" class="button">Apis Mercantile Website</a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="column is-6">
+                    <div class="box">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-128x128"><img type="img" src="assets/img/moonlighting.PNG?AWSAccessKeyId=AKIATCXCZSEJK2YRVPVG&amp;Signature=D4JOulNcdd2a7%2FIoYj0TI0S%2BEpU%3D&amp;Expires=1661998026" id="ip2wdz"></p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="has-text-weight-bold">Moonlighting Landscape Lighting Systems</p>
+                                    <p class="has-text-dark is-size-7 has-text-grey">Moonlighting Landscape Lighting Systems is located in Charleston, South Carolina and&nbsp;utilizes lighting in unique and creative ways in order to enhance and capture the spirit of a setting.&nbsp;</p>
+                                    <p class="is-size-6"></p>
+                                    <div><small></small></div>
+                                    <div class="mt-2 mb-2"><small> </small></div>
+                                </div><a href="https://moonlightinglls.com/" class="button">Moonlighting Website</a>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+            <div class="columns">
+                <div class="column is-6">
+                    <div class="box">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-128x128"><img type="img" src="https://source.unsplash.com/5vOXf1Frn18/500x500"></p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="has-text-weight-bold"> Lorem Ipsum </p>
+                                    <p class="has-text-dark is-size-7 has-text-grey"> Lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
+                                    <p class="is-size-6"><small>$15.99</small></p>
+                                    <div><small></small></div>
+                                    <div class="mt-2 mb-2"><small> </small></div>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+                <div class="column is-6">
+                    <div class="box">
+                        <article class="media">
+                            <figure class="media-left">
+                                <p class="image is-128x128"><img type="img" src="https://source.unsplash.com/D_TIIC7jhg8/500x500"></p>
+                            </figure>
+                            <div class="media-content">
+                                <div class="content">
+                                    <p class="has-text-weight-bold"> Lorem Ipsum </p>
+                                    <p class="has-text-dark is-size-7 has-text-grey"> Lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
+                                    <p class="is-size-6"></p>
+                                    <div><small></small></div>
+                                    <div class="mt-2 mb-2"><small> </small></div>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="container mt-5 mb-5">
+            <div class="content has-text-centered">
+                <div class="social-links"><a href="https://www.instagram.com/holycitysyndicate/?hl=en" class="button is-dark is-outlined is-rounded mr-3"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="40px" height="40px" id="isgmcu">
+                                <path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4c0 3.2-2.6 5.8-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8C2 4.6 4.6 2 7.8 2m-.2 2C5.61 4 4 5.61 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8c1.99 0 3.6-1.61 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5M12 7c2.76 0 5 2.24 5 5s-2.24 5-5 5-5-2.24-5-5 2.24-5 5-5m0 2c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"></path>
+                            </svg></span></a></div>
+                <p class="mt-5 pt-5">© 2019. Crafted by Holy City Syndicate&nbsp;<span class="made-by-gridbox">| Made with <a href="https://www.gridbox.io" target="_blank">Gridbox.io</a></span></p>
+                <div class="made-by-bulma"><a href="#"></a></div>
+            </div>
+        </div>
+    </footer>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Get all "navbar-burger" elements
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            // Check if there are any navbar burgers
+            if ($navbarBurgers.length > 0) {
+                // Add a click event on each of them
+                $navbarBurgers.forEach(el => {
+                    el.addEventListener('click', () => {
+                        // Get the target from the "data-target" attribute
+                        const target = el.dataset.target;
+                        const $target = document.getElementById(target);
+                        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+                        el.classList.toggle('is-active');
+                        $target.classList.toggle('is-active');
+                    });
+                });
+            }
+        });
+
+    </script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="assets/js/app.js"></script>
+    <script>
+        AOS.init();
+
+    </script>
+</body>
+
+</html>
